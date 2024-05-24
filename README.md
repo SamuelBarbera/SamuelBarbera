@@ -1,15 +1,48 @@
-### Sobre mim:
-Nome: Samuel Barbera
-Vulgo: ShadowMoon
-Programador: Java Script | NodeJs
+# Sobre mim:
 
-### Front-end:
-[![Java Script](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
+- Nome: Samuel Barbera
+- Vulgo: ShadowMoon
 
-### Back-end:
-[![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]
+# Estatísticas do meu GitHub
 
-### Banco de dados:
-[![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)] [![]()]
-### Social:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://youtube.com)
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelBarbera&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBarbera&layout=compact&theme=tokyonight)
+
+# Full-Stack:
+
+<div style="display: flex;align-items:center;gap:20px;">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  </a>
+    <a href="https://nodejs.org">
+    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  </a>
+  <a href="https://www.npmjs.com/">
+    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  </a>
+  <a href="https://discord.js.org/">
+    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg">
+  </a>
+    <a href="https://www.python.org/">
+    <img style="width: 30px;height: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg">
+  </a>
+    <a href="https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170">
+    <img style="width: 30px;height: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg">
+  </a>
+    </a>
+    <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">
+    <img style="width: 30px;height: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg">
+  </a>
+</div>
+
+# Banco de dados:
+
+<div style="display: flex;align-items:center;gap:20px;">
+  <a href="https://www.mongodb.com/">
+    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"> </a>
+  </a>
+    <a href="https://www.mysql.com/">
+    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  </a>
+</div>
