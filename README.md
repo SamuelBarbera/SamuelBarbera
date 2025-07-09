@@ -22,7 +22,7 @@
     <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   </a>
   <a href="https://discord.js.org/">
-    <img style="width: 30px;height: 30px;" src="https://cdn.discordapp.com/attachments/1215348073224740876/1271221550456111185/R.png?ex=66b68cd3&is=66b53b53&hm=a04c76212be8f4bb5c39961d614e71004d486a5cdb5d5cf134575adb4bc645ae&">
+    <img style="width: 30px;height: 30px;" src="https://cdn.discordapp.com/attachments/1182030977384591430/1392316642700034170/image.png?ex=686f176b&is=686dc5eb&hm=58f1e60a40e9676a5881675ec615e997cc63f40053203e8b2f27e5d7c68af32c&">
   </a>
     <a href="https://www.python.org/">
     <img style="width: 30px;height: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg">
