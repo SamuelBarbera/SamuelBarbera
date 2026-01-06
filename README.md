@@ -1,7 +1,7 @@
 # Sobre mim:
 
-- Nome: Samuel Barbera
-- Vulgo: ShadowMoon
+* Nome: Samuel Barbera
+* Vulgo: ShadowMoon
 
 # Estatísticas do meu GitHub
 
