@@ -2,7 +2,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Olá mundo</h1></summary>
+    <summary><h1 style="display: inline-block">Olá, Bem vindo</h1></summary>
 </div>
     
 <!-- Apresentação -->
@@ -27,6 +27,8 @@
   - 💬 Sou o Samuel Barbera, vulgo ShadowMoon, sou um uma pessoa dedicada, organizada e curiosa em aprender.
 
   - 🖥️ Sou um entusiasta da area de TI, estudando Gestão em TI, Analise De Dados e programação.
+
+  <!-- Habilidades técnicas -->
     
   ### 💁‍♂️ Habilidades Técnicas:
     
