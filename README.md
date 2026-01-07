@@ -58,7 +58,7 @@
   <div style="flex-basis: 48%;">
     <h3>Linguagens de programação</h3>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-    <a href="https://nodejs.org/pt-br" target="_blank"><img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"></a>
+    <a href="https://nodejs.org/pt-br" target="_blank"><img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></a>
     <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   
   </div>
