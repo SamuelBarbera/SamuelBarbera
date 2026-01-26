@@ -1,36 +1,38 @@
 <!--título-->
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Olá, Bem vindo</h1></summary>
 </div>
     
 <!-- Apresentação -->
-
 <p>
   👋🏻 Hello, I'm Samuel Barbera, entusiasta e estudante da area de tecnologia.
 
   - 👨‍🎓 Futuro Gestor De TI
 
   - 💻 Programador/Desenvolvedor
+
+> Estou em busca da minha primeira oportunidade como Analista de Suporte, Assistente de TI, ou áreas correlacionadas.
+
 </p>
 
-<!-- Dropdown -->
+<!-- Botões de Ação -->
+  <a href="#-skills"><strong>🔥 Skills</strong></a> <!-- · -->
+</div>
 
+<!-- Dropdown -->
 <details>
   <summary>📑 Saber mais</summary>
   
   <!-- Apresentação detalhada -->
-  
-  ### 👨‍💻 Sobre mim:
+  ### **👨‍💻 Sobre mim:**
   
   - 💬 Sou o Samuel Barbera, vulgo ShadowMoon, sou um uma pessoa dedicada, organizada e curiosa em aprender.
 
   - 🖥️ Sou um entusiasta da area de TI, estudando Gestão em TI, Analise De Dados e programação.
-
   <!-- Habilidades técnicas -->
     
-  ### 💁‍♂️ Habilidades Técnicas:
+  ### **💁‍♂️ Habilidades Técnicas:**
     
   - ⚙️ **Hardware:** Desmontagem/montagem PCs, notebooks; formatação, recuperação e clonagem HD/SSD 
 
@@ -42,7 +44,7 @@
 </details>
 
 <!-- Links -->
-
+## **🔗 Links:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/samuel-barbera))
 
 <!-- GithubStats -->
@@ -50,11 +52,9 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelBarbera&show_icons=true&theme=gotham)
 
 <!-- Skills -->
-
 ## 🔥 Skills
 
 <!-- Skills: Linguagens de programação -->
-
   <div style="flex-basis: 48%;">
     <h3>Linguagens de programação</h3>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
